@@ -1,0 +1,4 @@
+# Dans le dossier de votre projet
+git init
+git add .
+git commit -m "Initial commit"
